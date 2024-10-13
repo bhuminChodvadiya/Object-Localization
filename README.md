@@ -33,7 +33,7 @@ pip install tensorflow numpy opencv-python matplotlib pycocotools
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/object_localization.git
+git clone https://github.com/bhuminChodvadiya/Object_Localization.git
 
 cd object_localization
 2. Download the COCO dataset and place the _annotations.coco.json file in the train directory.
