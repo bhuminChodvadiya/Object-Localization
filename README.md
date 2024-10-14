@@ -25,12 +25,14 @@ You can install the required packages using pip:
 
 ```bash
 pip install tensorflow numpy opencv-python matplotlib pycocotools
+```
 
 ## Installation
 Clone this repository:
 
 ```bash
 git clone https://github.com/bhuminChodvadiya/Object_Localization.git
+```
 
 cd object_localization
-2. Download the COCO dataset and place the _annotations.coco.json file in the train directory.
+- Download the COCO dataset and place the _annotations.coco.json file in the train directory.
