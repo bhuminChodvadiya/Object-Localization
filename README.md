@@ -7,8 +7,6 @@ This project implements an object localization model using TensorFlow and the CO
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Overview](#code-overview)
-- [License](#license)
 
 ## Features
 - Loads and preprocesses images and annotations from the COCO dataset.
